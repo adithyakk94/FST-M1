@@ -38,7 +38,7 @@ public class Activity1 {
         //find number 4 and click it
         driver.findElement(AppiumBy.id("digit_4")).click();
 
-        // find plus and click it
+        // find multiply and click it
         driver.findElement(AppiumBy.accessibilityId("multiply")).click();
 
         //find number 2 and click it
